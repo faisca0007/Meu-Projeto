@@ -1,6 +1,6 @@
 {
-  "name": "Outro-Projeto",
-  "version": "3.0.0",
+  "name": "meu-projeto",
+  "version": "1.0.0",
   "description": "",
   "main": "index.js",
   "scripts": {
@@ -8,5 +8,8 @@
   },
   "keywords": [],
   "author": "",
-  "license": "ISC"
+  "license": "ISC",
+  "devDependencies": {
+    "nodemon": "^3.1.4"
+  }
 }
